@@ -1,2 +1,2 @@
-# personal-websit
+# personal-website
 ezralwebsite
